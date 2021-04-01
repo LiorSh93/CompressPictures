@@ -1,0 +1,7 @@
+A Picture compression script in Python 3.9
+
+Instruction:
+1. Move all the pictures you want to compress and copy it Path
+2. Open destination folder(Can be the same as the folder of the pictures)
+3. replace YOURPATH and YOURDESTPATH(dont forget the \\ and not \)
+4. run it.
